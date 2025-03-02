@@ -18,3 +18,5 @@ Users can generate images using a credit-based system, where each image costs a 
 - Authentication: JWT (JSON Web Token)
 - AI API: Clipdrop
 - Payment Gateway: Razorpay
+
+![Screenshot 1](Screenshot1.png)
